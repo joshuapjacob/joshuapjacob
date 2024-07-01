@@ -1,4 +1,4 @@
-Hi, I’m [Joshua Paul Jacob](https://joshuapjacob.com).
+[Hello](https://joshuapjacob.com).
 
 <!---
 joshuapjacob/joshuapjacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
